@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T01:17:43.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="j4celjMOpED7ye8LqiCm" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T01:18:04.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GtpqORAFkCvzHmnn8kpB" version="15.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1692" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,6 +130,9 @@
         </mxCell>
         <mxCell id="fR8x_7uv4c2v0l3vNsXf-43" value="&lt;span style=&quot;font-size: 14px&quot;&gt;aliyun-etl&lt;br&gt;玄武&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1206" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-44" value="&lt;span style=&quot;font-size: 14px&quot;&gt;生命周期&lt;br&gt;管理&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

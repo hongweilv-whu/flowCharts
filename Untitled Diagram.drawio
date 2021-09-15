@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:12:02.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jusSrvXAxl9RFtI9W4kH" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T08:36:08.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sncYfFXx-M_IXVR0G4R8" version="15.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2858" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,8 +286,20 @@
         <mxCell id="fR8x_7uv4c2v0l3vNsXf-140" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=24;direction=south;notch=0;rounded=0;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-169" y="1288" width="36" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fR8x_7uv4c2v0l3vNsXf-141" value="&lt;font style=&quot;font-size: 24px&quot;&gt;表元数据 + 计算元数据&lt;br&gt;&lt;br&gt;现同步方式的梳理和问题确认&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-793" y="1710" width="318" height="221" as="geometry" />
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-141" value="&lt;font style=&quot;font-size: 24px&quot;&gt;表元数据&lt;br&gt;&lt;br&gt;现同步方式的问题梳理&lt;br&gt;dy_tmp库表统计&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-793" y="1691" width="318" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-142" value="&lt;font style=&quot;font-size: 24px&quot;&gt;统一采集SDK&lt;br&gt;系统设计和开发&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-793" y="2034" width="318" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-144" value="&lt;font style=&quot;font-size: 24px&quot;&gt;计算元数据&lt;br&gt;&lt;br&gt;现同步方式的梳理，建模设计，指标梳理&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-793" y="1850" width="318" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-145" value="&lt;span style=&quot;font-size: 18px&quot;&gt;接入SDK，采集数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-405" y="1691" width="240" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="fR8x_7uv4c2v0l3vNsXf-146" value="&lt;span style=&quot;font-size: 18px&quot;&gt;大盘指标数据开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="1691" width="240" height="525" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

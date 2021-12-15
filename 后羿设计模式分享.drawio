@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T05:36:48.877Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="_E1Unvyvu72oK7XSRcz_" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T05:38:07.273Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="N5lGDP5zL7_enDzKzXN7" version="15.9.6" type="github">
   <diagram id="9tF38RBc4R6KH_2L6xA0" name="Page-1">
     <mxGraphModel dx="2249" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,13 +109,13 @@
         <mxCell id="EglaSvgofND52tkB0dJH-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则二&lt;br&gt;是否用户负反馈&lt;br&gt;视频&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1030" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EglaSvgofND52tkB0dJH-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则三&lt;br&gt;是否关播&lt;br&gt;主播&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EglaSvgofND52tkB0dJH-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则三&lt;br&gt;是否用户偏好房间&lt;br&gt;视频&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1030" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EglaSvgofND52tkB0dJH-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则四&lt;br&gt;是否关播、关注&lt;br&gt;主播&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EglaSvgofND52tkB0dJH-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则四&lt;br&gt;是否指定分区&lt;br&gt;视频&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1030" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EglaSvgofND52tkB0dJH-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则五&lt;br&gt;是否指定分区&lt;br&gt;主播&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EglaSvgofND52tkB0dJH-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规则五&lt;br&gt;是否XXXXX&lt;br&gt;视频&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1030" width="150" height="80" as="geometry" />
         </mxCell>
       </root>

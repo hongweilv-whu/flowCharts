@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T11:33:59.787Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="xMc9C67A5CiRKgF5BEaf" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T11:34:23.275Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="PfVo_ifkvEO9y8Fvm2lW" version="15.9.6" type="github">
   <diagram id="9tF38RBc4R6KH_2L6xA0" name="Page-1">
     <mxGraphModel dx="2249" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-8" value="策略执行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2320" y="660" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oUI8aSCQk4w9hSNdnpG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-9" target="5oUI8aSCQk4w9hSNdnpG-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-9" value="uid查询满足要求的rid+vid+退房时间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2329.5" y="870" width="410" height="60" as="geometry" />

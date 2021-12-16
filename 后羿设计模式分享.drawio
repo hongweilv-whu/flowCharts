@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:17:05.100Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="HZzViS0k9WfLQSQUwcyk" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T13:39:54.261Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="l2urIRQRaSLkbZ7U33kw" version="15.9.6" type="github">
   <diagram id="9tF38RBc4R6KH_2L6xA0" name="Page-1">
-    <mxGraphModel dx="2249" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,13 +127,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-9" value="uid查询vid列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="870" width="410" height="60" as="geometry" />
+          <mxGeometry x="2320" y="871" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-10" target="5oUI8aSCQk4w9hSNdnpG-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oUI8aSCQk4w9hSNdnpG-10" value="退房时间降序取第1个视频" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="1043" width="410" height="60" as="geometry" />
+        <mxCell id="5oUI8aSCQk4w9hSNdnpG-10" value="退房时间降序取第1个vid和rid" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1044" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.066;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-11" target="5oUI8aSCQk4w9hSNdnpG-8">
           <mxGeometry relative="1" as="geometry" />
@@ -141,8 +141,8 @@
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-11" target="5oUI8aSCQk4w9hSNdnpG-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oUI8aSCQk4w9hSNdnpG-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;查询，判断距上次&lt;br&gt;推送超过F分钟&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2440.5" y="745" width="169" height="80" as="geometry" />
+        <mxCell id="5oUI8aSCQk4w9hSNdnpG-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;查询，判断距上次&lt;br&gt;推送超过F分钟&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2440.5" y="746" width="169" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-12" target="5oUI8aSCQk4w9hSNdnpG-11">
           <mxGeometry relative="1" as="geometry" />
@@ -161,13 +161,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-12" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="830" width="60" height="80" as="geometry" />
+          <mxGeometry x="2940" y="831" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-14" target="5oUI8aSCQk4w9hSNdnpG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-14" value="过滤剔除（当天？）已推送vid" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="957" width="410" height="60" as="geometry" />
+          <mxGeometry x="2320" y="958" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="5oUI8aSCQk4w9hSNdnpG-17" target="5oUI8aSCQk4w9hSNdnpG-9">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-22" value="更新推送时间、已推送列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="1130" width="410" height="60" as="geometry" />
+          <mxGeometry x="2320" y="1131" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-23" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;rpos=1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;uid=1000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;type=直播续看&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2370" y="350" width="110" height="60" as="geometry" />
@@ -206,10 +206,10 @@
           <mxGeometry x="2600" y="370" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-46" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="832" width="30" height="20" as="geometry" />
+          <mxGeometry x="2520" y="833" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5oUI8aSCQk4w9hSNdnpG-47" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2375" y="760" width="30" height="20" as="geometry" />
+          <mxGeometry x="2375" y="761" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

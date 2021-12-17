@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T03:14:45.723Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="gaC5zhrG2ZUz3HyENH6H" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T03:46:17.947Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="iySOLHvhavcPnyfVxW-f" version="15.9.6" type="github">
   <diagram id="EnGDsgzoyKBG_AxD99qt" name="Page-1">
     <mxGraphModel dx="595" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="5iVqAYEEGy_To94OwJAN-102" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1594" y="598" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5iVqAYEEGy_To94OwJAN-103" value="过滤已发布帖子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="5iVqAYEEGy_To94OwJAN-103" value="过滤已读帖子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1020" y="678" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5iVqAYEEGy_To94OwJAN-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="5iVqAYEEGy_To94OwJAN-104" target="5iVqAYEEGy_To94OwJAN-105">
@@ -206,6 +206,24 @@
         </mxCell>
         <mxCell id="5iVqAYEEGy_To94OwJAN-107" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1199" y="863" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-109" value="用户兴趣TOP1游戏分区" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1000" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-110" value="标签中台&lt;br&gt;&lt;span style=&quot;font-size: medium&quot;&gt;近30天观看偏好分区&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1524" y="990" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-111" value="提取对应分区的帖子池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1060" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-112" value="过滤已读帖子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1120" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-114" value="帖子曝光+CTR过滤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1180" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5iVqAYEEGy_To94OwJAN-115" value="帖子有效浏览量降序，取TOPN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1237" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

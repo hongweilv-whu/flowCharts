@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T05:46:30.968Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="vj-h4KdBlZbW7-q8V-9P" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T05:48:21.710Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="HnEA5E2k0KrnG-7NngMI" version="15.9.6" type="github">
   <diagram id="PLMokqg9otZ2b63iXJ-P" name="Page-1">
     <mxGraphModel dx="-300" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
         </mxCell>
         <mxCell id="CAlQa5cT7f-0AYOMkh8R-70" value="【rpos:dd:uid--&amp;gt; 当天推送vid列表】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="CAlQa5cT7f-0AYOMkh8R-69">
           <mxGeometry x="0.2909" y="-2" relative="1" as="geometry">
-            <mxPoint x="25" as="offset" />
+            <mxPoint x="-20" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CAlQa5cT7f-0AYOMkh8R-71" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -262,7 +262,7 @@
         <mxCell id="CAlQa5cT7f-0AYOMkh8R-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" source="CAlQa5cT7f-0AYOMkh8R-78" target="CAlQa5cT7f-0AYOMkh8R-87" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CAlQa5cT7f-0AYOMkh8R-78" value="更新推送时间、已推送列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="CAlQa5cT7f-0AYOMkh8R-78" value="更新位置已推荐、已推送列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3553" y="1417" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CAlQa5cT7f-0AYOMkh8R-79" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;rpos=1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;uid=1000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;type=直播续看&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="1">

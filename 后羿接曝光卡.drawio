@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T13:10:39.887Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="yrp-ZjcDbHISV5oduIrW" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T13:15:23.009Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="x7VNGtAhMFtoIdqtJeo-" version="18.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,8 @@
         <mxCell id="QYNvbnqAfwnq2PlY06qU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYNvbnqAfwnq2PlY06qU-15" target="QYNvbnqAfwnq2PlY06qU-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QYNvbnqAfwnq2PlY06qU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYNvbnqAfwnq2PlY06qU-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.91;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYNvbnqAfwnq2PlY06qU-15" target="QYNvbnqAfwnq2PlY06qU-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QYNvbnqAfwnq2PlY06qU-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否&lt;br&gt;曝光达标&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="677.5" y="660" width="125" height="80" as="geometry" />
@@ -66,8 +64,13 @@
         <mxCell id="QYNvbnqAfwnq2PlY06qU-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;已推送主播&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QYNvbnqAfwnq2PlY06qU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYNvbnqAfwnq2PlY06qU-17" target="QYNvbnqAfwnq2PlY06qU-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYNvbnqAfwnq2PlY06qU-17" target="QYNvbnqAfwnq2PlY06qU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="920" />
+              <mxPoint x="910" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QYNvbnqAfwnq2PlY06qU-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;推送&lt;br&gt;主播&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="890" width="120" height="60" as="geometry" />
@@ -115,12 +118,12 @@
           <mxGeometry x="741" y="743" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QYNvbnqAfwnq2PlY06qU-46" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="644" y="665" width="30" height="30" as="geometry" />
+          <mxGeometry x="790" y="650" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QYNvbnqAfwnq2PlY06qU-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka&lt;br&gt;打点数据&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="460" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QYNvbnqAfwnq2PlY06qU-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka&lt;br&gt;新topic&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka&lt;br&gt;新打点数据&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="630" width="100" height="50" as="geometry" />
         </mxCell>
       </root>

@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T11:10:41.044Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" version="18.1.2" etag="0Y51W5eUihBSScRMR8rw" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T11:38:18.588Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="py0e5_tyArS9vORII373" version="18.1.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;主播侧&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户侧&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;进入推荐位&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-3" value="后羿系统" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;获取备选主播池&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-7" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="520" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-5" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="QYNvbnqAfwnq2PlY06qU-7">
+          <mxGeometry x="2.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;使用了曝光卡的&lt;br&gt;所有主播&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="QYNvbnqAfwnq2PlY06qU-7">
+          <mxGeometry y="70" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;主播曝光过滤&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-9" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="520" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-10" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="QYNvbnqAfwnq2PlY06qU-9">
+          <mxGeometry x="2.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QYNvbnqAfwnq2PlY06qU-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;使用了曝光卡的&lt;br&gt;主播的曝光配置&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="QYNvbnqAfwnq2PlY06qU-9">
+          <mxGeometry y="70" width="135" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

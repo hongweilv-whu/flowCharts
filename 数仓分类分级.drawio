@@ -1,56 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T08:21:47.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4XPYJVvWPfK9judvNJs8" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T09:08:14.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6JrzFwap6k2Dpoj3xh74" version="17.4.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;经营管理数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="-149" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;用户数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="-149" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;会员&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="31" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;主播/UP主&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="31" y="161" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;公会&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="31" y="211" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;经济公司&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="31" y="261" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;自然人身份标识&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="160" height="30" as="geometry" />
+          <mxGeometry x="290" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基本资料&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="160" height="30" as="geometry" />
+          <mxGeometry x="447" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;网络身份标识&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="120" width="160" height="30" as="geometry" />
+          <mxGeometry x="603" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;设备信息&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="120" width="160" height="30" as="geometry" />
+          <mxGeometry x="760" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-12" value="&lt;font style=&quot;font-size: 16px&quot;&gt;签约信息&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="160" width="160" height="30" as="geometry" />
+          <mxGeometry x="290" y="161" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;直播间信息&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="160" width="160" height="30" as="geometry" />
+          <mxGeometry x="470" y="161" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-14" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基本资料&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="160" height="30" as="geometry" />
+          <mxGeometry x="290" y="211" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;组织身份标识&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="160" height="30" as="geometry" />
+          <mxGeometry x="470" y="211" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-16" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基本资料&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="160" height="30" as="geometry" />
+          <mxGeometry x="290" y="261" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5VGHJNEPMofT7HZ-4ChQ-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;组织身份标识&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="160" height="30" as="geometry" />
+          <mxGeometry x="470" y="261" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5VGHJNEPMofT7HZ-4ChQ-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;按业务归属&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="85" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

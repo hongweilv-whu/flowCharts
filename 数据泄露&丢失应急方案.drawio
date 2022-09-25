@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:18:18.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wJYPXKSJ73Jg5T1yD0VH" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T12:18:55.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="l3K6Rz2kTbxKrb_-SLVS" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1093" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,22 +133,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;影响评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1901.5" y="183" width="120" height="40" as="geometry" />
+          <mxGeometry x="1901.5" y="191" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=14;" edge="1" source="t33sxJa6h0nzB5QI2sd5-34" target="t33sxJa6h0nzB5QI2sd5-36" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;通知与校正&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1901.5" y="279" width="120" height="40" as="geometry" />
+          <mxGeometry x="1901.5" y="287" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=14;" edge="1" source="t33sxJa6h0nzB5QI2sd5-36" target="t33sxJa6h0nzB5QI2sd5-37" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;记录留存&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1901.5" y="374" width="120" height="40" as="geometry" />
+          <mxGeometry x="1901.5" y="382" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;复盘优化&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1901.5" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="1901.5" y="478" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t33sxJa6h0nzB5QI2sd5-43" target="t33sxJa6h0nzB5QI2sd5-45">
           <mxGeometry relative="1" as="geometry" />
@@ -175,13 +175,13 @@
           <mxGeometry x="1485" y="3" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-58" value="&lt;div&gt;1. 评估影响的分区和主播，及影响程度，如UV、观时等指标波动&lt;/div&gt;&lt;div&gt;2. 评估受影响的业务，根据数据血缘链路分析下游受影响业务模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2079" y="165" width="282" height="60" as="geometry" />
+          <mxGeometry x="2080" y="181" width="282" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-59" value="&lt;div&gt;1. 通知相关业务方，数据丢失的原因、影响范围、程度和解决方案&lt;/div&gt;&lt;div&gt;2. 根据血缘获取所有受影响任务，建立数据回刷任务，统一校正数据&lt;/div&gt;&lt;div&gt;3. 确认回刷校正的执行结果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2080" y="269" width="280" height="60" as="geometry" />
+          <mxGeometry x="2080" y="277" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-60" value="保留问题描述、分析、解决过程的相关记录，尤其对于第三方问题，建立故障报告库。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2080" y="364" width="280" height="60" as="geometry" />
+          <mxGeometry x="2080" y="372" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-61" value="客户端问题热修复或发新版本；前端、服务端等问题紧急发版修复。修复后需仔细验证结果。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1485" y="107" width="184" height="60" as="geometry" />

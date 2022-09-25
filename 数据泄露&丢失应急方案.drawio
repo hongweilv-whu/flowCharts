@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:07:29.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tF1gfHJMdny5ME_VWKUL" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T12:08:03.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EXYHJ4si7iexdEkbVEiI" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -149,21 +149,6 @@
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;复盘优化&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1901.5" y="436" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-38" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1. 调查泄露原因，识别涉及的数据类型、数据量及其敏感程度&lt;br style=&quot;font-size: 13px;&quot;&gt;2. 分析所泄露数据是否已加密、已有防控措施是否有效抵御了攻击等&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2650" y="-70" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-39" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;立即修复可能的漏洞，以防止数据进一步泄露。如封锁网络环境、限制访问、监控出入点、关闭设备、更改密码或秘钥等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2650" y="15" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-40" value="确认受影响的个人数据主体范围，评估对个人数据主体权力和自由的影响程度，以及其他可能造成的不良后果。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2650" y="99" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-41" value="1. 留存事件相关的事实、事件起因、相关影响以及采取的补救措施的相关记录&lt;br style=&quot;font-size: 13px;&quot;&gt;2. 留存相关网络日志至少六个月&lt;br style=&quot;font-size: 13px;&quot;&gt;3. 留存影响评估的分析过程与结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2650" y="183" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-42" value="依据影响评估，经委员会慎重决策后，确认是否上报监管或发布公告。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2650" y="268" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t33sxJa6h0nzB5QI2sd5-43" target="t33sxJa6h0nzB5QI2sd5-45">
           <mxGeometry relative="1" as="geometry" />

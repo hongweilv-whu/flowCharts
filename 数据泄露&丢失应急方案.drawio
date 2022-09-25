@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:06:32.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VIRstwmqXVW17ufEdEAd" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T12:07:10.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="z9lGKgP4RbLCmJBYVMAw" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,10 @@
           <mxGeometry x="1440" y="107" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-58" value="&lt;div&gt;1. 评估数据丢失影响的分区和主播，及影响程度，如UV、观时等指标波动；&lt;/div&gt;&lt;div&gt;2. 评估受影响的业务，根据数据血缘链路分析下游受影响业务模块；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2068" y="173" width="230" height="60" as="geometry" />
+          <mxGeometry x="2068" y="173" width="282" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t33sxJa6h0nzB5QI2sd5-59" value="&lt;div&gt;1. 通知相关业务方，数据丢失的原因、影响范围、影响程度和解决方案&lt;/div&gt;&lt;div&gt;2. 数据回刷，根据血缘获取所有受影响任务，建立数据回刷任务，统一校正数据&lt;/div&gt;&lt;div&gt;3. 确认数据回刷校正执行结果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2080" y="257" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

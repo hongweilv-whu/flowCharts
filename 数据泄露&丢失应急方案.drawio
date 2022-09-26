@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T02:17:21.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="M5Nuxft9jjDMSLQtJjKW" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T02:17:44.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="UzKA_Yi2nWhiwceHnL2J" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1497" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
         <mxCell id="t33sxJa6h0nzB5QI2sd5-61" value="客户端热修复或发新版本；前端、服务端紧急发版修复。仔细验证结果。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1504" y="107" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-62" value="联系厂商、反馈说明影响的紧急程度；要求立即着手问题定位，并及时更新进度。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t33sxJa6h0nzB5QI2sd5-62" value="推动厂商排查解决问题并同步进度。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2250" y="3" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-65" value="厂商修复后，应仔细验证，并要求厂商出具详细故障报告。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

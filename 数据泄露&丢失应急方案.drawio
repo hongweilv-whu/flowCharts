@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:41:26.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0hfKKglOxoDzbCwAta7C" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T02:07:50.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="koaj3LAgJpAU8yjQDXaG" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1597" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,7 +106,7 @@
           <mxGeometry x="820" y="297" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=0;shadow=0;fillColor=#EBEBEB;fontColor=#333333;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1470" y="-260" width="980" height="810" as="geometry" />
+          <mxGeometry x="1500" y="-260" width="910" height="810" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t33sxJa6h0nzB5QI2sd5-28" target="t33sxJa6h0nzB5QI2sd5-71">
           <mxGeometry relative="1" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="1826.5" y="3" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-56" value="&lt;div&gt;1. 业务：分区上线大型活动，有大主播首秀等&lt;/div&gt;&lt;div&gt;2. 技术：新版本发布、方案改造或升级等引入的漏洞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1485" y="3" width="184" height="60" as="geometry" />
+          <mxGeometry x="1504" y="3" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-58" value="&lt;div&gt;1. 评估影响的分区和主播，及影响程度，如UV、观时等指标波动&lt;/div&gt;&lt;div&gt;2. 评估受影响的业务，根据数据血缘链路分析下游受影响业务模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2080" y="192" width="282" height="60" as="geometry" />
@@ -174,14 +174,14 @@
         <mxCell id="t33sxJa6h0nzB5QI2sd5-60" value="保留问题描述、分析、解决过程的相关记录，尤其对于第三方问题，建立故障报告库。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2080" y="383" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-61" value="客户端问题热修复或发新版本；前端、服务端等问题紧急发版修复。修复后需仔细验证结果。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1485" y="107" width="184" height="60" as="geometry" />
+        <mxCell id="t33sxJa6h0nzB5QI2sd5-61" value="客户端热修复或发新版本；前端、服务端紧急发版修复。仔细验证结果。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1504" y="107" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t33sxJa6h0nzB5QI2sd5-62" value="联系厂商、反馈问题、说明影响的紧急程度；要求厂商立即着手问题定位，并及时更新进度。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2250" y="3" width="184" height="60" as="geometry" />
+        <mxCell id="t33sxJa6h0nzB5QI2sd5-62" value="联系厂商、反馈说明影响的紧急程度；要求立即着手问题定位，并及时更新进度。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2250" y="3" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-65" value="厂商修复后，应仔细验证，并要求厂商出具详细故障报告。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2250" y="107" width="184" height="60" as="geometry" />
+          <mxGeometry x="2250" y="107" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t33sxJa6h0nzB5QI2sd5-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontFamily=Helvetica;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t33sxJa6h0nzB5QI2sd5-66" target="t33sxJa6h0nzB5QI2sd5-44">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T00:12:10.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZcSfJ9XezwAdp-xHSEZM" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T00:15:07.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d_N6uYxDWEikTYPs1nb4" version="20.3.6" type="github">
   <diagram id="8eygJcUhAP4R4MEj_PFW" name="第 1 页">
     <mxGraphModel dx="1692" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -675,6 +675,15 @@
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-127" value="设计要求&lt;br&gt;减少攻击面&lt;br&gt;威胁建模" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2258" y="337" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-128" value="使用特定工具&lt;br&gt;禁不安全函数&lt;br&gt;静态分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2346" y="337" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-129" value="动态分析&lt;br&gt;模糊测试&lt;br&gt;攻击面分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2433" y="337" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-130" value="时间响应计划&lt;br&gt;最终安全分析攻击面分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2521" y="337" width="79" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

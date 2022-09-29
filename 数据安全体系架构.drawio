@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T02:58:41.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pqa0cZ3gWudC7Zpvc9Ke" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T03:00:02.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ySP5DCy6vn4FaDQJbS2G" version="20.3.6" type="github">
   <diagram id="8eygJcUhAP4R4MEj_PFW" name="第 1 页">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -479,16 +479,16 @@
           <mxGeometry x="2733.5" y="68" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-50" value="&lt;font style=&quot;&quot;&gt;制度体系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2733.5" y="115" width="63" height="24" as="geometry" />
+          <mxGeometry x="2733.5" y="107" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-51" value="&lt;font style=&quot;&quot;&gt;流程建设&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2733.5" y="162" width="63" height="24" as="geometry" />
+          <mxGeometry x="2733.5" y="147" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-52" value="&lt;font style=&quot;&quot;&gt;第三方管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2733.5" y="210" width="63" height="24" as="geometry" />
+          <mxGeometry x="2733.5" y="225" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-53" value="&lt;font style=&quot;&quot;&gt;风险评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2733.5" y="257" width="63" height="24" as="geometry" />
+          <mxGeometry x="2733.5" y="265" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-54" value="&lt;font style=&quot;&quot;&gt;安全运维&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2733.5" y="412" width="63" height="24" as="geometry" />
@@ -738,6 +738,9 @@
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-169" value="&lt;font style=&quot;&quot;&gt;闭环优化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2733.5" y="443" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-170" value="&lt;font style=&quot;&quot;&gt;人员管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="186" width="63" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

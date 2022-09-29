@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T00:19:42.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5XQH6Hml3VlrwJW9ZssM" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T00:26:00.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hu5u5Vr1koQNHfpYuEw2" version="20.3.6" type="github">
   <diagram id="8eygJcUhAP4R4MEj_PFW" name="第 1 页">
     <mxGraphModel dx="2048" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,6 +669,24 @@
         </mxCell>
         <mxCell id="LWDec0ok-VuoAz_Tq3SS-131" value="发布安全响应" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2593" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-133" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分类分级&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="15" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-134" value="&lt;font style=&quot;&quot;&gt;L1：外部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-139" value="&lt;font style=&quot;&quot;&gt;L2：内部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-140" value="&lt;font style=&quot;&quot;&gt;L3：秘密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-141" value="&lt;font style=&quot;&quot;&gt;L4：机密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-142" value="&lt;font style=&quot;&quot;&gt;L5：绝密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="120" width="194.5" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T06:15:59.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AZ-pm6g5HULkTU6Vf5QI" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:11:35.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kS9HiU7q9Feu_NOHUZ_m" version="20.3.7" type="github">
   <diagram id="8eygJcUhAP4R4MEj_PFW" name="第 1 页">
-    <mxGraphModel dx="2605" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-187" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据源&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-187" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据源&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="1235" width="370" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-153" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-153" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1886.5" y="7" width="130" height="686" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="10" width="130" height="686" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2040" y="356" width="645" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据生命周期安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据生命周期安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2040" y="164" width="645" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_QIip4Y_jchZYiL5Eddr-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户数据&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -391,406 +391,406 @@
         <mxCell id="OuyBbQTgeXAvmUCCN6ac-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全管理&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2710" y="15" width="110" height="323" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-5" value="数据采集" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-5" value="数据采集" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2045" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-6" value="数据传输" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-6" value="数据传输" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2151" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-7" value="数据存储" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-7" value="数据存储" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2257" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-8" value="数据处理" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-8" value="数据处理" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2363" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-9" value="数据交换" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-9" value="数据交换" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2469" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-10" value="数据销毁" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-10" value="数据销毁" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2575" y="204" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可见&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可见&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2045" y="244.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-16" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;资产地图&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-16" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;资产地图&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052" y="274.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分级&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分级&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052" y="304.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分类&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分类&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2125" y="274.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-25" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;业务全景&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-25" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;业务全景&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2125" y="304.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可知&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可知&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2205" y="243.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;关联系统&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;关联系统&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2212" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;共享关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;共享关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2212" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-29" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据流转&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-29" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据流转&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2285" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-30" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;行为关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-30" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;行为关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2285" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可管&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可管&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2365" y="243.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-32" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;权限管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-32" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;权限管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2372" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-33" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;加密解密&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-33" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;加密解密&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2372" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-34" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;操作管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-34" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;操作管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2445" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-35" value="&lt;font style=&quot;&quot;&gt;数据脱敏&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-35" value="&lt;font style=&quot;&quot;&gt;数据脱敏&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2445" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可审&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可审&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2525" y="243.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-37" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;风险识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-37" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;风险识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2532" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访问控制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-38" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访问控制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2532" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-39" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;流量识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-39" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;流量识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2605" y="273.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-40" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;异常审计&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-40" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;异常审计&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2605" y="303.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-43" value="&lt;font style=&quot;&quot;&gt;法律法规&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-43" value="&lt;font style=&quot;&quot;&gt;法律法规&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="73.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-44" value="&lt;font style=&quot;&quot;&gt;规范文件&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-44" value="&lt;font style=&quot;&quot;&gt;规范文件&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="112" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-45" value="&lt;font style=&quot;&quot;&gt;行业标准&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-45" value="&lt;font style=&quot;&quot;&gt;行业标准&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="151" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-49" value="&lt;font style=&quot;&quot;&gt;组织结构&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-49" value="&lt;font style=&quot;&quot;&gt;组织结构&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="68" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-50" value="&lt;font style=&quot;&quot;&gt;制度体系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-50" value="&lt;font style=&quot;&quot;&gt;制度体系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="107" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-51" value="&lt;font style=&quot;&quot;&gt;流程建设&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-51" value="&lt;font style=&quot;&quot;&gt;流程建设&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="147" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-52" value="&lt;font style=&quot;&quot;&gt;第三方管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-52" value="&lt;font style=&quot;&quot;&gt;第三方管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="225" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-53" value="&lt;font style=&quot;&quot;&gt;风险评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-53" value="&lt;font style=&quot;&quot;&gt;风险评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="265" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-54" value="&lt;font style=&quot;&quot;&gt;安全运维&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-54" value="&lt;font style=&quot;&quot;&gt;安全运维&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="412" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-55" value="&lt;font style=&quot;&quot;&gt;备份恢复&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-55" value="&lt;font style=&quot;&quot;&gt;备份恢复&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="473" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-56" value="&lt;font style=&quot;&quot;&gt;应急演练&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-56" value="&lt;font style=&quot;&quot;&gt;应急演练&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="504" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-57" value="&lt;font style=&quot;&quot;&gt;应急处置&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-57" value="&lt;font style=&quot;&quot;&gt;应急处置&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="534" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;决策层：&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;决策层：&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="920" width="450" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="991.5" width="290" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1060" width="290" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;员工、合作伙伴（第三方）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;员工、合作伙伴（第三方）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1130" width="290" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;监督层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;监督层&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2310" y="990" width="100" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-63" value="&lt;font style=&quot;&quot;&gt;成熟度评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-63" value="&lt;font style=&quot;&quot;&gt;成熟度评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="304" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-64" value="&lt;font style=&quot;&quot;&gt;溯源分析&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-64" value="&lt;font style=&quot;&quot;&gt;溯源分析&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="565" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-65" value="&lt;font style=&quot;&quot;&gt;风险感知&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-65" value="&lt;font style=&quot;&quot;&gt;风险感知&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="595" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-66" value="&lt;font style=&quot;&quot;&gt;风险预警&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-66" value="&lt;font style=&quot;&quot;&gt;风险预警&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="626" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-67" value="&lt;font style=&quot;&quot;&gt;安全画像&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-67" value="&lt;font style=&quot;&quot;&gt;安全画像&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="656" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-68" value="&lt;font style=&quot;&quot;&gt;业务特征&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-68" value="&lt;font style=&quot;&quot;&gt;业务特征&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="412" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-69" value="&lt;font style=&quot;&quot;&gt;业务关系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-69" value="&lt;font style=&quot;&quot;&gt;业务关系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="456" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-70" value="&lt;font style=&quot;&quot;&gt;数据流向&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-70" value="&lt;font style=&quot;&quot;&gt;数据流向&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="500" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-71" value="&lt;font style=&quot;&quot;&gt;安全偏好&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-71" value="&lt;font style=&quot;&quot;&gt;安全偏好&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="588" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;终端安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;终端安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2049" y="555" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-74" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;域控管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-74" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;域控管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-75" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端水印&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-75" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端水印&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-76" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端准入&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-76" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端准入&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2129" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-77" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;云桌面&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-77" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;云桌面&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2129" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-88" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端DLP&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-88" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端DLP&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-89" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;IP限制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-89" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;IP限制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2129" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;网络安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;网络安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2209" y="555" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-91" value="&lt;font style=&quot;&quot;&gt;网络隔离&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-91" value="&lt;font style=&quot;&quot;&gt;网络隔离&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2216" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-92" value="&lt;font style=&quot;&quot;&gt;传输安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-92" value="&lt;font style=&quot;&quot;&gt;传输安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2216" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-93" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-93" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2289" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-94" value="&lt;font style=&quot;&quot;&gt;邮件DLP&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-94" value="&lt;font style=&quot;&quot;&gt;邮件DLP&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2289" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-95" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;WAF防护&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-95" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;WAF防护&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2216" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-96" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;防DDOS&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-96" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;防DDOS&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2289" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主机安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主机安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2369" y="555" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-98" value="&lt;font style=&quot;&quot;&gt;账号管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-98" value="&lt;font style=&quot;&quot;&gt;账号管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2376" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-99" value="&lt;font style=&quot;&quot;&gt;身份鉴别&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-99" value="&lt;font style=&quot;&quot;&gt;身份鉴别&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2376" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-100" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-100" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2449" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-101" value="&lt;font style=&quot;&quot;&gt;安全补丁&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-101" value="&lt;font style=&quot;&quot;&gt;安全补丁&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2449" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-102" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;漏洞扫描&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-102" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;漏洞扫描&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2376" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-103" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;运维管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-103" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;运维管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2449" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;云安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;云安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2526" y="555" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-105" value="&lt;font style=&quot;&quot;&gt;身份认证&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-105" value="&lt;font style=&quot;&quot;&gt;身份认证&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2533" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-106" value="&lt;font style=&quot;&quot;&gt;流量监测&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-106" value="&lt;font style=&quot;&quot;&gt;流量监测&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2533" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-107" value="&lt;font style=&quot;&quot;&gt;逃逸防护&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-107" value="&lt;font style=&quot;&quot;&gt;逃逸防护&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2606" y="582" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-108" value="&lt;font style=&quot;&quot;&gt;镜像安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-108" value="&lt;font style=&quot;&quot;&gt;镜像安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2606" y="612" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-109" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;容器安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-109" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;容器安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2533" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-110" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;平台安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-110" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;平台安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2606" y="642" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-117" value="培训" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-117" value="培训" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2067" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-118" value="需求" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-118" value="需求" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2156" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-119" value="设计" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-119" value="设计" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2243" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-120" value="实现" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-120" value="实现" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2331" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-121" value="验证" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-121" value="验证" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2418" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-122" value="发布" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-122" value="发布" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2506" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-123" value="响应" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-123" value="响应" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2593" y="389" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-125" value="安全需求&lt;br&gt;质量门/bug栏&lt;br&gt;安全风险评估&lt;br&gt;隐私风险评估" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-125" value="安全需求&lt;br&gt;质量门/bug栏&lt;br&gt;安全风险评估&lt;br&gt;隐私风险评估" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2156" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-126" value="&lt;span style=&quot;text-align: center;&quot;&gt;安全培训&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;安全知识&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;隐私教育&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-126" value="&lt;span style=&quot;text-align: center;&quot;&gt;安全培训&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;安全知识&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;隐私教育&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2071" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-127" value="设计要求&lt;br&gt;减少攻击面&lt;br&gt;威胁建模" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-127" value="设计要求&lt;br&gt;减少攻击面&lt;br&gt;威胁建模" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2243" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-128" value="使用特定工具&lt;br&gt;禁不安全函数&lt;br&gt;静态分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-128" value="使用特定工具&lt;br&gt;禁不安全函数&lt;br&gt;静态分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2331" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-129" value="动态分析&lt;br&gt;模糊测试&lt;br&gt;攻击面分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-129" value="动态分析&lt;br&gt;模糊测试&lt;br&gt;攻击面分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2418" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-130" value="时间响应计划&lt;br&gt;最终安全分析发布和存档" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-130" value="时间响应计划&lt;br&gt;最终安全分析发布和存档" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2506" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-131" value="发布安全响应" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-131" value="发布安全响应" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2593" y="423" width="79" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-133" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分类分级&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-133" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分类分级&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2470" y="15" width="215" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-134" value="&lt;font style=&quot;&quot;&gt;L1：外部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-134" value="&lt;font style=&quot;&quot;&gt;L1：外部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2480.5" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-139" value="&lt;font style=&quot;&quot;&gt;L2：内部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-139" value="&lt;font style=&quot;&quot;&gt;L2：内部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2581" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-140" value="&lt;font style=&quot;&quot;&gt;L3：秘密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-140" value="&lt;font style=&quot;&quot;&gt;L3：秘密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2480.5" y="87" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-141" value="&lt;font style=&quot;&quot;&gt;L4：机密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-141" value="&lt;font style=&quot;&quot;&gt;L4：机密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2581" y="87" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-142" value="&lt;font style=&quot;&quot;&gt;L5：绝密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-142" value="&lt;font style=&quot;&quot;&gt;L5：绝密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2480.5" y="120" width="194.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-143" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据安全原则&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-143" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据安全原则&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2040" y="15" width="423" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-144" value="&lt;font style=&quot;&quot;&gt;合法正当&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-144" value="&lt;font style=&quot;&quot;&gt;合法正当&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052.5" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-145" value="&lt;font style=&quot;&quot;&gt;目的明确&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-145" value="&lt;font style=&quot;&quot;&gt;目的明确&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2154" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-146" value="&lt;font style=&quot;&quot;&gt;权责一致&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-146" value="&lt;font style=&quot;&quot;&gt;权责一致&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052.5" y="87" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-147" value="&lt;font style=&quot;&quot;&gt;全程可控&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-147" value="&lt;font style=&quot;&quot;&gt;全程可控&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2155.25" y="87" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-148" value="&lt;font style=&quot;&quot;&gt;让数据自由、安全流通，保障数据价值&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-148" value="&lt;font style=&quot;&quot;&gt;让数据自由、安全流通，保障数据价值&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052.5" y="120" width="400.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-149" value="&lt;font style=&quot;&quot;&gt;最少够用&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-149" value="&lt;font style=&quot;&quot;&gt;最少够用&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2256" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-150" value="&lt;font style=&quot;&quot;&gt;选择同意&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-150" value="&lt;font style=&quot;&quot;&gt;选择同意&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2357.5" y="53" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-151" value="&lt;font style=&quot;&quot;&gt;动态控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-151" value="&lt;font style=&quot;&quot;&gt;动态控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2256.5" y="88" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-157" value="理念目标&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;科技向善，数据有度，让数据自由、安全流通&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#BD7000;strokeWidth=1;fontSize=18;direction=north;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-157" value="理念目标&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;科技向善，数据有度，让数据自由、安全流通&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#BD7000;strokeWidth=1;fontSize=18;direction=north;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1886.5" y="-90" width="943.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-159" value="&lt;font style=&quot;&quot;&gt;监管要求&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-159" value="&lt;font style=&quot;&quot;&gt;监管要求&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="190" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-160" value="&lt;font style=&quot;&quot;&gt;合规评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-160" value="&lt;font style=&quot;&quot;&gt;合规评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="229" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-161" value="&lt;font style=&quot;&quot;&gt;外审检查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-161" value="&lt;font style=&quot;&quot;&gt;外审检查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="267" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-162" value="&lt;font style=&quot;&quot;&gt;安全自查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-162" value="&lt;font style=&quot;&quot;&gt;安全自查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="306" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-164" value="&lt;font style=&quot;&quot;&gt;关键路径&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-164" value="&lt;font style=&quot;&quot;&gt;关键路径&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="544" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-165" value="&lt;font style=&quot;&quot;&gt;安全责权&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-165" value="&lt;font style=&quot;&quot;&gt;安全责权&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="632" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-169" value="&lt;font style=&quot;&quot;&gt;闭环优化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-169" value="&lt;font style=&quot;&quot;&gt;闭环优化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="443" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-170" value="&lt;font style=&quot;&quot;&gt;人员管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-170" value="&lt;font style=&quot;&quot;&gt;人员管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2733.5" y="186" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-171" value="&lt;font style=&quot;&quot;&gt;授权最小化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-171" value="&lt;font style=&quot;&quot;&gt;授权最小化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2360.25" y="86" width="94.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-172" value="RDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-172" value="RDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2655.5" y="1269" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-173" value="NoSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-173" value="NoSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2801.5" y="1269" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-174" value="数仓" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-174" value="数仓" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=default;strokeWidth=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2934.5" y="1269" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-175" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-175" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="1130" width="370" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-176" value="&lt;font style=&quot;&quot;&gt;元数据采集&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-176" value="&lt;font style=&quot;&quot;&gt;元数据采集&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2690" y="1170" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-177" value="&lt;font style=&quot;&quot;&gt;样本数据采集&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-177" value="&lt;font style=&quot;&quot;&gt;样本数据采集&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2867" y="1170" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-178" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分类规则引擎&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-178" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分类规则引擎&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="987" width="370" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-179" value="&lt;font style=&quot;&quot;&gt;关键词&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-179" value="&lt;font style=&quot;&quot;&gt;关键词&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2690" y="1030" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-182" value="&lt;font style=&quot;&quot;&gt;正则&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-182" value="&lt;font style=&quot;&quot;&gt;正则&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2790" y="1030" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-183" value="&lt;font style=&quot;&quot;&gt;机器学习&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-183" value="&lt;font style=&quot;&quot;&gt;机器学习&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2890" y="1030" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-184" value="&lt;font style=&quot;&quot;&gt;字段名、字段注释、字段样本数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-184" value="&lt;font style=&quot;&quot;&gt;字段名、字段注释、字段样本数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2690" y="1067.25" width="280" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-185" value="数据资产地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-185" value="数据资产地图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="924" width="110" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-186" value="分类分级规则配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-186" value="分类分级规则配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2900" y="924" width="110" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-188" value="数据血缘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-188" value="数据血缘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2770" y="924" width="110" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="LWDec0ok-VuoAz_Tq3SS-189" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;自动化分类分级系统&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWDec0ok-VuoAz_Tq3SS-189" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;自动化分类分级系统&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="864" width="370" height="47" as="geometry" />
         </mxCell>
       </root>

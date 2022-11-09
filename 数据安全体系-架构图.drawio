@@ -1,9 +1,378 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:51:42.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CzV8BLuFrUicX29JahVK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T14:52:05.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EvQF6NWmLCLDpyARXH-M" version="20.4.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-479" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-_lVrcwK2O-manJRvLOw-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1886.5" y="7" width="130" height="686" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="10" width="130" height="686" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="356" width="645" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据生命周期安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="164" width="645" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;监管合规&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1896.5" y="15" width="110" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务需求&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1896.5" y="370" width="110" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基础安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="510" width="645" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全运营&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="367" width="110" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安全管理&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="15" width="110" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-10" value="数据采集" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2045" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-11" value="数据传输" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2151" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-12" value="数据存储" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2257" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-13" value="数据处理" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2363" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-14" value="数据交换" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2469" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-15" value="数据销毁" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2575" y="204" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可见&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2045" y="244.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;资产地图&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2052" y="274.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-18" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分级&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2052" y="304.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-19" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据分类&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="274.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-20" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;业务全景&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="304.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可知&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2205" y="243.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-22" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;关联系统&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2212" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-23" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;共享关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2212" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据流转&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-25" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;行为关系&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可管&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="243.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;权限管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2372" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;加密解密&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2372" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-29" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;操作管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-30" value="&lt;font style=&quot;&quot;&gt;数据脱敏&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可审&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2525" y="243.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-32" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;风险识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2532" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-33" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访问控制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2532" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-34" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;流量识别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="273.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-35" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;异常审计&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="303.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-36" value="&lt;font style=&quot;&quot;&gt;法律法规&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="73.5" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-37" value="&lt;font style=&quot;&quot;&gt;规范文件&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="112" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-38" value="&lt;font style=&quot;&quot;&gt;行业标准&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="151" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-39" value="&lt;font style=&quot;&quot;&gt;组织结构&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="68" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-40" value="&lt;font style=&quot;&quot;&gt;制度体系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="107" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-41" value="&lt;font style=&quot;&quot;&gt;流程建设&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="147" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-42" value="&lt;font style=&quot;&quot;&gt;第三方管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="225" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-43" value="&lt;font style=&quot;&quot;&gt;风险评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="265" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-44" value="&lt;font style=&quot;&quot;&gt;安全运维&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="412" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-45" value="&lt;font style=&quot;&quot;&gt;备份恢复&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="473" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-46" value="&lt;font style=&quot;&quot;&gt;应急演练&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="504" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-47" value="&lt;font style=&quot;&quot;&gt;应急处置&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="534" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-48" value="&lt;font style=&quot;&quot;&gt;成熟度评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="304" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-49" value="&lt;font style=&quot;&quot;&gt;溯源分析&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="565" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-50" value="&lt;font style=&quot;&quot;&gt;风险感知&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="595" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-51" value="&lt;font style=&quot;&quot;&gt;风险预警&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="626" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-52" value="&lt;font style=&quot;&quot;&gt;安全画像&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="656" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-53" value="&lt;font style=&quot;&quot;&gt;业务特征&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="412" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-54" value="&lt;font style=&quot;&quot;&gt;业务关系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="456" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-55" value="&lt;font style=&quot;&quot;&gt;数据流向&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="500" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-56" value="&lt;font style=&quot;&quot;&gt;安全偏好&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="588" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;终端安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2049" y="555" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-58" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;域控管理&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-59" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端水印&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-60" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端准入&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2129" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-61" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;云桌面&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2129" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-62" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;终端DLP&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-63" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;IP限制&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2129" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-64" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;网络安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2209" y="555" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-65" value="&lt;font style=&quot;&quot;&gt;网络隔离&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-66" value="&lt;font style=&quot;&quot;&gt;传输安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-67" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2289" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-68" value="&lt;font style=&quot;&quot;&gt;邮件DLP&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2289" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-69" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;WAF防护&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2216" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-70" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;防DDOS&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2289" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-71" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主机安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2369" y="555" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-72" value="&lt;font style=&quot;&quot;&gt;账号管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-73" value="&lt;font style=&quot;&quot;&gt;身份鉴别&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-74" value="&lt;font style=&quot;&quot;&gt;访问控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2449" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-75" value="&lt;font style=&quot;&quot;&gt;安全补丁&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2449" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-76" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;漏洞扫描&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-77" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;运维管控&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2449" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;云安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2526" y="555" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-79" value="&lt;font style=&quot;&quot;&gt;身份认证&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-80" value="&lt;font style=&quot;&quot;&gt;流量监测&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-81" value="&lt;font style=&quot;&quot;&gt;逃逸防护&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2606" y="582" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-82" value="&lt;font style=&quot;&quot;&gt;镜像安全&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2606" y="612" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-83" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;容器安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-84" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;平台安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2606" y="642" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-85" value="培训" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2067" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-86" value="需求" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-87" value="设计" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2243" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-88" value="实现" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2331" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-89" value="验证" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2418" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-90" value="发布" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2506" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-91" value="响应" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2593" y="389" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-92" value="安全需求&lt;br&gt;质量门/bug栏&lt;br&gt;安全风险评估&lt;br&gt;隐私风险评估" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-93" value="&lt;span style=&quot;text-align: center;&quot;&gt;安全培训&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;安全知识&lt;/span&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;隐私教育&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2071" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-94" value="设计要求&lt;br&gt;减少攻击面&lt;br&gt;威胁建模" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2243" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-95" value="使用特定工具&lt;br&gt;禁不安全函数&lt;br&gt;静态分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2331" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-96" value="动态分析&lt;br&gt;模糊测试&lt;br&gt;攻击面分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2418" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-97" value="时间响应计划&lt;br&gt;最终安全分析发布和存档" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2506" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-98" value="发布安全响应" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2593" y="423" width="79" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-99" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分类分级&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="15" width="215" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-100" value="&lt;font style=&quot;&quot;&gt;L1：外部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-101" value="&lt;font style=&quot;&quot;&gt;L2：内部公开&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-102" value="&lt;font style=&quot;&quot;&gt;L3：秘密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-103" value="&lt;font style=&quot;&quot;&gt;L4：机密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-104" value="&lt;font style=&quot;&quot;&gt;L5：绝密&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480.5" y="120" width="194.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-105" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据安全原则&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="15" width="423" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-106" value="&lt;font style=&quot;&quot;&gt;合法正当&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2052.5" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-107" value="&lt;font style=&quot;&quot;&gt;目的明确&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2154" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-108" value="&lt;font style=&quot;&quot;&gt;权责一致&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2052.5" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-109" value="&lt;font style=&quot;&quot;&gt;全程可控&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2155.25" y="87" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-110" value="&lt;font style=&quot;&quot;&gt;让数据自由、安全流通，保障数据价值&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2052.5" y="120" width="400.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-111" value="&lt;font style=&quot;&quot;&gt;最少够用&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2256" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-112" value="&lt;font style=&quot;&quot;&gt;选择同意&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2357.5" y="53" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-113" value="&lt;font style=&quot;&quot;&gt;动态控制&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2256.5" y="88" width="94.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-114" value="理念目标&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;科技向善，数据有度，让数据自由、安全流通&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#BD7000;strokeWidth=1;fontSize=18;direction=north;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1886.5" y="-90" width="943.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-115" value="&lt;font style=&quot;&quot;&gt;监管要求&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="190" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-116" value="&lt;font style=&quot;&quot;&gt;合规评估&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="229" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-117" value="&lt;font style=&quot;&quot;&gt;外审检查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="267" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-118" value="&lt;font style=&quot;&quot;&gt;安全自查&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="306" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-119" value="&lt;font style=&quot;&quot;&gt;关键路径&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="544" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-120" value="&lt;font style=&quot;&quot;&gt;安全责权&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="632" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-121" value="&lt;font style=&quot;&quot;&gt;闭环优化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="443" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-122" value="&lt;font style=&quot;&quot;&gt;人员管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2733.5" y="186" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lVrcwK2O-manJRvLOw-123" value="&lt;font style=&quot;&quot;&gt;授权最小化&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360.25" y="86" width="94.5" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

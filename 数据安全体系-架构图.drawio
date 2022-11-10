@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:52:05.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EvQF6NWmLCLDpyARXH-M" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:38:35.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mURGmrvP8f1OV3GMSdpk" version="20.4.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="-479" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-278" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="-_lVrcwK2O-manJRvLOw-38" value="&lt;font style=&quot;&quot;&gt;行业标准&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="151" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="-_lVrcwK2O-manJRvLOw-39" value="&lt;font style=&quot;&quot;&gt;组织结构&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-_lVrcwK2O-manJRvLOw-39" value="&lt;font style=&quot;&quot;&gt;组织架构&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2733.5" y="68" width="63" height="24" as="geometry" />
         </mxCell>
         <mxCell id="-_lVrcwK2O-manJRvLOw-40" value="&lt;font style=&quot;&quot;&gt;制度体系&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

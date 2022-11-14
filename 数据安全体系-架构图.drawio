@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T13:31:25.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A6bZF3XHYEKtaiM-bupr" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T13:31:50.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oQgE30gBJznvhgvuVQnt" version="20.4.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="-647" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -450,6 +450,21 @@
         </mxCell>
         <mxCell id="BTdRfY3kuWqKOs56d7h9-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据发现报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2603" y="1008" width="114" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BTdRfY3kuWqKOs56d7h9-32" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;业务&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;支撑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="920" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BTdRfY3kuWqKOs56d7h9-33" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;资产目录概览&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2175" y="928" width="114" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BTdRfY3kuWqKOs56d7h9-34" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;资产分类分级总览&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2318" y="928" width="114" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BTdRfY3kuWqKOs56d7h9-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分类分级统计报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="928" width="114" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="BTdRfY3kuWqKOs56d7h9-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据发现报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2603" y="928" width="114" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

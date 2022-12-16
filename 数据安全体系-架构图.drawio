@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T11:33:43.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iae1atZQ1xzqLQxZu7oZ" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T11:36:26.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bEVZbyg6V5HSmfcYV88O" version="20.6.2" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="-662" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -561,6 +561,15 @@
         </mxCell>
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;内外部共享&lt;br&gt;安全技术&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3125.75" y="1008" width="111.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全意识提升&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="790" width="140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全能力培训&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="840" width="140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全能力考核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="880" width="140" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

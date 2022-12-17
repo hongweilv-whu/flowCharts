@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:58:52.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hQT60TXc2rfQQrZ68iE5" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T11:40:58.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EnLf6p3HrN2EPjewivMt" version="20.7.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="-797" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-650" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -757,9 +757,6 @@
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-109" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;平台安全&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4046" y="488" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-110" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基础安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="3480" y="555" width="1110" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据生命周期安全&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3525" y="1014" width="645" height="180" as="geometry" />
         </mxCell>
@@ -841,16 +838,16 @@
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-164" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;异常审计&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4090" y="1153.5" width="63" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Ef_pjq41HniGt6Bavx1n-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据服务监测平台&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef_pjq41HniGt6Bavx1n-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据服务监测平台&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3609" y="1295" width="146" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Ef_pjq41HniGt6Bavx1n-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;身份鉴别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef_pjq41HniGt6Bavx1n-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;身份鉴别&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3748.25" y="1200" width="87.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Ef_pjq41HniGt6Bavx1n-4" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数字水印&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef_pjq41HniGt6Bavx1n-4" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数字水印&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3966" y="1200" width="87.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Ef_pjq41HniGt6Bavx1n-5" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据API网关&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef_pjq41HniGt6Bavx1n-5" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数据API网关&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4080" y="1200" width="87.5" height="24" as="geometry" />
         </mxCell>
       </root>

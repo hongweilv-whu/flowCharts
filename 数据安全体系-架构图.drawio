@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T12:15:43.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="M39rSoZlkBHqXzz1ZTbO" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T12:20:12.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4LrT7IHSWXEp_73_HKJx" version="20.7.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="-200" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-20" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4130" y="221" width="210" height="347" as="geometry" />
+        </mxCell>
         <mxCell id="BTdRfY3kuWqKOs56d7h9-37" value="&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;数&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;据&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;发&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;现&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;和&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;分&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;类&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;分&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;级&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;系&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2060" y="990" width="690" height="220" as="geometry" />
         </mxCell>
@@ -714,6 +717,12 @@
         </mxCell>
         <mxCell id="QKMcAP5dC5VMnP53R5lh-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个人信息安全影响评估体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3565" y="592" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;邮件外发台账&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3788" y="592" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全事件应急处理体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4015" y="595" width="195" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

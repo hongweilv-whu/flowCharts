@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T10:26:22.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="94Sm0pZWSxQqeVnfyf7o" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T10:27:37.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="wrA3HWL7-83iqaM6QYDA" type="github">
   <diagram id="t1FCCeD-Ky4FYSk9POs2" name="第 1 页">
     <mxGraphModel dx="2557" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,6 +452,9 @@
         </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-143" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;奖励生效提醒&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;曝光量达到目标值提醒&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1870" y="646" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-144" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;下播&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;站内信&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;扶持数据看板&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="770" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

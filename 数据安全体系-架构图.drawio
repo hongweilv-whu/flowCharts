@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T12:24:01.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="C-LmQFRTkeMrtFUjaerk" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T12:24:19.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="13vZ-6WyMbfRtNHzUOzk" version="20.7.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="-465" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -727,11 +727,11 @@
         <mxCell id="QKMcAP5dC5VMnP53R5lh-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全事件应急处理体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4015" y="595" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3748" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;安全技术体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3728" y="180" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4190" y="182" width="100" height="40" as="geometry" />
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;安全管理体系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="182" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

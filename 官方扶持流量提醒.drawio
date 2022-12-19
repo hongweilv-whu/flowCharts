@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:54:12.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="J-0sMfU8P5gS-C8eK6rh" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:56:01.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="_JFHHK6TQexK6mphb0bs" type="github">
   <diagram id="t1FCCeD-Ky4FYSk9POs2" name="第 1 页">
     <mxGraphModel dx="2048" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,6 +398,9 @@
         </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-120" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1884" y="720" width="162" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-123" value="1分钟的定时任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="730" width="232" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

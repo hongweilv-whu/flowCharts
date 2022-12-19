@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T08:16:47.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="VoYcWoM1FCZrdMD2ajai" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T08:23:47.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="H0LduZtPrEMmhiRvyDs3" type="github">
   <diagram id="t1FCCeD-Ky4FYSk9POs2" name="第 1 页">
     <mxGraphModel dx="2310" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,11 +411,20 @@
         <mxCell id="jsiAO8ca6etxvkX8Onv4-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-126" target="jsiAO8ca6etxvkX8Onv4-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-126" value="&lt;div&gt;0&amp;lt;pv&amp;lt;=1时，1：官方扶持奖励生效，观众正在赶来&lt;/div&gt;&lt;div&gt;100&amp;lt;=pv&amp;lt;1000，3：官方扶持累计曝光：100&lt;/div&gt;&lt;div&gt;1000&amp;lt;=pv&amp;lt;5000，3：官方扶持累计曝光：1000&lt;/div&gt;&lt;div&gt;过万后则每增加一万展示一条&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-126" value="MQ消息推送逻辑判断" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2267" y="877" width="250" height="156" as="geometry" />
         </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-127" value="RocketMQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1930" y="915" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-130" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;0&amp;lt;pv&amp;lt;=1时，1：官方扶持奖励生效，观众正在赶来&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;100&amp;lt;=pv&amp;lt;1000，3：官方扶持累计曝光：100&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1000&amp;lt;=pv&amp;lt;5000，3：官方扶持累计曝光：1000&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;过万后则每增加一万展示一条&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2532.5" y="905" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-131" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&quot;roomId&quot;:9999,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&quot;showId&quot;:1888888,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&quot;pv&quot;:99999&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="836" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-132" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;pv的值只会是固定的值：&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1：官方扶持开始生效&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;100：累计曝光100&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1000：类上&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;5000等&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;后羿侧 保障pv从小到大的发送顺序&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="960" width="300" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

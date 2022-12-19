@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T12:36:27.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xZjypStqfh93QGI1fvsN" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T12:39:38.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3xGkNxUluEgABUOAKOZ5" version="20.7.3" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="-465" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-650" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;四级&lt;br&gt;表单记录类&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2629" y="788" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据分类分级系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;数据分类分级系统&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3564.5" y="516" width="525.5" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据资产管理平台&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -574,7 +574,7 @@
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;内外部共享&lt;br&gt;安全技术&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3125.75" y="1008" width="111.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;方针政策类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-28" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;一级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;方针政策类&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="4180" y="368" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Uwuxt1Dsih7Ys3p3gzNJ-31" value="理念目标&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;科技向善，数据有度，让数据自由、安全流通&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#BD7000;strokeWidth=1;fontSize=18;direction=north;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
@@ -691,13 +691,13 @@
         <mxCell id="QKMcAP5dC5VMnP53R5lh-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 组&lt;br&gt;&amp;nbsp; 织&lt;br&gt;&amp;nbsp; 建&lt;br&gt;&amp;nbsp; 设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="4140" y="225" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;组织架构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;组织架构&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="4180" y="235" width="140" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;安全职责&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;安全职责&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="4180" y="280" width="140" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;人员能力建设&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;人员能力建设&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4180" y="325" width="140" height="24" as="geometry" />
         </mxCell>
         <mxCell id="QKMcAP5dC5VMnP53R5lh-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一级&lt;br&gt;方针政策类&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -712,10 +712,10 @@
         <mxCell id="QKMcAP5dC5VMnP53R5lh-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;四级&lt;br&gt;表单记录类&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5560" y="812" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;二级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理规定类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;二级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理规定类&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="4180" y="416" width="140" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;三级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;操作指南类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;三级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;操作指南类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4180" y="464" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="QKMcAP5dC5VMnP53R5lh-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;四级&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;表单记录类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -724,10 +724,10 @@
         <mxCell id="QKMcAP5dC5VMnP53R5lh-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; 运营&lt;br&gt;&amp;nbsp; &amp;nbsp; 体系&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="3470" y="574" width="870" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个人信息安全影响评估体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;个人信息安全影响评估体系&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="3534" y="595" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QKMcAP5dC5VMnP53R5lh-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;邮件外发台账&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKMcAP5dC5VMnP53R5lh-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;邮件外发台账&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="3734" y="595" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QKMcAP5dC5VMnP53R5lh-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据安全事件应急处理体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T10:31:27.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="OQPWnxcGMJlB_AD4lRpx" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T10:35:38.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="E15532KbjpuC0vCGdsm_" type="github">
   <diagram id="t1FCCeD-Ky4FYSk9POs2" name="第 1 页">
     <mxGraphModel dx="2557" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,13 +393,22 @@
         <mxCell id="jsiAO8ca6etxvkX8Onv4-117" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;房间+场次 维度&lt;br&gt;曝光量指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2672.5" y="633" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-118" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka打点数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="533" width="155" height="60" as="geometry" />
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-118" target="jsiAO8ca6etxvkX8Onv4-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka房间开关播数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="533" width="155" height="60" as="geometry" />
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-118" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka房间开关播数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2672.5" y="533" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-120" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-119" target="jsiAO8ca6etxvkX8Onv4-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-119" target="jsiAO8ca6etxvkX8Onv4-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka打点数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2909" y="533" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-120" value="Redis1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2669" y="743" width="162" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-123" target="jsiAO8ca6etxvkX8Onv4-120">
@@ -462,11 +471,11 @@
         <mxCell id="jsiAO8ca6etxvkX8Onv4-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" source="jsiAO8ca6etxvkX8Onv4-147" target="jsiAO8ca6etxvkX8Onv4-148" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-147" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;房间+场次 维度&lt;br&gt;曝光量指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2928.5" y="633" width="155" height="60" as="geometry" />
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-147" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;天+分区+房间 维度&lt;br&gt;看板4个指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2909" y="633" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-148" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2925" y="743" width="162" height="70" as="geometry" />
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-148" value="Redis2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2905.5" y="743" width="162" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

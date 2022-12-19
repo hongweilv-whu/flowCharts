@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:56:01.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="_JFHHK6TQexK6mphb0bs" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T08:00:19.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="kUBKj6MkA0DhYRd3iUnJ" type="github">
   <diagram id="t1FCCeD-Ky4FYSk9POs2" name="第 1 页">
-    <mxGraphModel dx="2048" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,7 +387,7 @@
         <mxCell id="jsiAO8ca6etxvkX8Onv4-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-117" target="jsiAO8ca6etxvkX8Onv4-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsiAO8ca6etxvkX8Onv4-117" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;房间+场次维度&lt;br&gt;曝光量指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-117" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;房间+场次 维度&lt;br&gt;曝光量指标&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1887.5" y="610" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-118" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Kafka打点数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -399,8 +399,11 @@
         <mxCell id="jsiAO8ca6etxvkX8Onv4-120" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1884" y="720" width="162" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="jsiAO8ca6etxvkX8Onv4-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="jsiAO8ca6etxvkX8Onv4-123" target="jsiAO8ca6etxvkX8Onv4-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jsiAO8ca6etxvkX8Onv4-123" value="1分钟的定时任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="730" width="232" height="60" as="geometry" />
+          <mxGeometry x="1366" y="725" width="232" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

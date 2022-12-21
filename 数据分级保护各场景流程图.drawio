@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T09:43:04.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="tdGeMHUnMOmsnQtTazxZ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:43:58.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="gaH4_gTVYgOtSea5lv22" type="github">
   <diagram id="TG1AjXcc40jafs7zMtt8" name="第 1 页">
-    <mxGraphModel dx="500" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-83" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统自动执行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-72">
           <mxGeometry x="41.75" y="493" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-84" value="安全与合规部" style="swimlane;startSize=20;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-63">
+        <mxCell id="PIT-gqg-Esm7uXlDMLW4-84" value="法务部" style="swimlane;startSize=20;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-63">
           <mxGeometry x="520" width="240" height="630" as="geometry" />
         </mxCell>
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-85" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;安全合规部审批&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-84">
@@ -278,7 +278,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PIT-gqg-Esm7uXlDMLW4-63" source="PIT-gqg-Esm7uXlDMLW4-79" target="PIT-gqg-Esm7uXlDMLW4-85">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="319" />
+              <mxPoint x="540" y="219" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-134" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIT-gqg-Esm7uXlDMLW4-94">
           <mxGeometry x="-0.8663" relative="1" as="geometry">

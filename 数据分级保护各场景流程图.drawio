@@ -1,35 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T08:29:52.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="2Nwktz4sOQSDWUTM2bs7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T08:42:58.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="o94br02d2UBdxWScE7H1" type="github">
   <diagram id="TG1AjXcc40jafs7zMtt8" name="第 1 页">
     <mxGraphModel dx="1235" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="30" width="710" height="540" as="geometry">
-            <mxRectangle x="170" y="30" width="70" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-1">
-          <mxGeometry y="20" width="710" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-5" value="业务部门" style="swimlane;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-2">
-          <mxGeometry x="20" width="240" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-8" value="Container" style="swimlane;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-2">
-          <mxGeometry x="260" width="250" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-10" value="Container" style="swimlane;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-2">
-          <mxGeometry x="510" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-1">
-          <mxGeometry y="220" width="710" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-9" value="" style="swimlane;startSize=0;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-3">
-          <mxGeometry x="20" width="240" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="PIT-gqg-Esm7uXlDMLW4-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="PIT-gqg-Esm7uXlDMLW4-1">
-          <mxGeometry y="420" width="710" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-11" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="680" width="660" height="630" as="geometry" />
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T07:53:26.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="BQeMUxcMG_r1wHyuZS4o" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T07:53:48.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="jsQ4IJZKuaG3Y7Vkx0Nq" type="github">
   <diagram id="TG1AjXcc40jafs7zMtt8" name="第 1 页">
     <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,14 @@
         </mxCell>
         <mxCell id="PIT-gqg-Esm7uXlDMLW4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PIT-gqg-Esm7uXlDMLW4-11" source="PIT-gqg-Esm7uXlDMLW4-20" target="PIT-gqg-Esm7uXlDMLW4-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIT-gqg-Esm7uXlDMLW4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PIT-gqg-Esm7uXlDMLW4-11" source="PIT-gqg-Esm7uXlDMLW4-21" target="PIT-gqg-Esm7uXlDMLW4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIT-gqg-Esm7uXlDMLW4-34" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIT-gqg-Esm7uXlDMLW4-33">
+          <mxGeometry x="-0.2154" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

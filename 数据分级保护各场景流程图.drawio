@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T08:33:26.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UDPosbDji0o5oziDaE8-" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T08:36:31.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RjFH9QjjTRahCX5YIa5W" version="20.6.2" type="github">
   <diagram id="TG1AjXcc40jafs7zMtt8" name="第 1 页">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -635,10 +635,10 @@
         <mxCell id="9xw017560egKAiFtD5Uf-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统自动授权&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9xw017560egKAiFtD5Uf-17" vertex="1">
           <mxGeometry x="41.75" y="493" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9xw017560egKAiFtD5Uf-29" value="审计部" style="swimlane;startSize=30;fontSize=16;" parent="9xw017560egKAiFtD5Uf-1" vertex="1">
+        <mxCell id="9xw017560egKAiFtD5Uf-29" value="法务部" style="swimlane;startSize=30;fontSize=16;" parent="9xw017560egKAiFtD5Uf-1" vertex="1">
           <mxGeometry x="520" width="240" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="9xw017560egKAiFtD5Uf-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;审计部门审批&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9xw017560egKAiFtD5Uf-29" vertex="1">
+        <mxCell id="9xw017560egKAiFtD5Uf-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;安全合规审批&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9xw017560egKAiFtD5Uf-29" vertex="1">
           <mxGeometry x="45" y="193.75" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9xw017560egKAiFtD5Uf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="9xw017560egKAiFtD5Uf-1" source="9xw017560egKAiFtD5Uf-3" target="9xw017560egKAiFtD5Uf-18" edge="1">

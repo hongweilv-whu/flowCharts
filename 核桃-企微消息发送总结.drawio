@@ -1,47 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T09:28:13.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FeOL02kB8sFlbUoIMPHM" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:08:55.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GhEhLHkT6h4IcLIISCo7" version="21.1.2" type="github">
   <diagram name="第 1 页" id="er9I0QnL_Se0PQcWxd1t">
-    <mxGraphModel dx="3563" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2967" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-1" target="ewofRc9dXVoDsyhrSTzK-9">
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-1" target="ewofRc9dXVoDsyhrSTzK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-1" value="&lt;font style=&quot;&quot;&gt;企微宝：消息发送&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="480" width="270" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-1" value="&lt;font style=&quot;&quot;&gt;企微宝：消息发送&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-2" value="&lt;font style=&quot;&quot;&gt;企业微信&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/cgi-bin/message/send&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="330" width="210" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-2" value="&lt;font style=&quot;&quot;&gt;企业微信&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/cgi-bin/message/send&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="765" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-3" value="&lt;font style=&quot;&quot;&gt;QyApiClientService#sendQyTextMessage&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="247" width="270" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-3" value="&lt;font style=&quot;&quot;&gt;QyApiClientService#sendQyTextMessage&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="765" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-4" value="&lt;font style=&quot;&quot;&gt;发送企微消息&lt;br&gt;/crm-enterprise-wechat/v1/message/appmsg&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="-110" width="373" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-4" target="ewofRc9dXVoDsyhrSTzK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-5" value="&lt;font style=&quot;&quot;&gt;侧边栏发送消息通知&lt;br&gt;&lt;span style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;/crm-enterprise-wechat/ext/v1/enrollment/notify&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="-50" width="370" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-4" value="&lt;font style=&quot;&quot;&gt;发送企微消息&lt;br&gt;/crm-enterprise-wechat/v1/message/appmsg&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="640" width="373" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-6" value="&lt;font style=&quot;&quot;&gt;订单中心消息消费&lt;br&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;OrderCenterConsumer#consume&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="80" width="370" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-5" target="ewofRc9dXVoDsyhrSTzK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-7" value="&lt;font style=&quot;&quot;&gt;企业微信手动操作：回调消息补偿&lt;br&gt;&lt;span style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;/crm-enterprise-wechat/v1/manage/cpsQyNotify&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" width="370" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-5" value="&lt;font style=&quot;&quot;&gt;侧边栏发送消息通知&lt;br&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;/crm-enterprise-wechat/ext/v1/enrollment/notify&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="703" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-8" value="&lt;font style=&quot;&quot;&gt;企业微信通知消息消费&lt;br&gt;QyNotifyMessageConsumer#consume&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="140" width="373" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-6" target="ewofRc9dXVoDsyhrSTzK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-9" value="&lt;font style=&quot;&quot;&gt;企微宝任务拉取的回调接口，由企微宝发起调用&lt;br&gt;/crm-enterprise-wechat/v1/qwb&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="397" width="270" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-6" value="&lt;font style=&quot;&quot;&gt;MQ: 订单中心消息消费&lt;br&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;OrderCenterConsumer#consume&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="828" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-11" value="拉取task数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="289" y="447" width="90" height="30" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-7" target="ewofRc9dXVoDsyhrSTzK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-12" value="&lt;font style=&quot;&quot;&gt;写入task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="130" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-7" value="&lt;font style=&quot;&quot;&gt;企业微信手动操作：回调消息补偿&lt;br&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;/crm-enterprise-wechat/v1/manage/cpsQyNotify&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="765" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ewofRc9dXVoDsyhrSTzK-13" value="&lt;font style=&quot;&quot;&gt;读取task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="340" width="130" height="40" as="geometry" />
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-8" target="ewofRc9dXVoDsyhrSTzK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-8" value="&lt;font style=&quot;&quot;&gt;MQ: 企业微信通知消息消费&lt;br&gt;QyNotifyMessageConsumer#consume&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="890" width="373" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-9" value="&lt;font style=&quot;&quot;&gt;企微宝任务拉取的回调接口，由企微宝发起调用&lt;br&gt;/crm-enterprise-wechat/v1/qwb&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="427" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-11" value="拉取task数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="289" y="477" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-12" value="&lt;font style=&quot;&quot;&gt;写入task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-13" value="&lt;font style=&quot;&quot;&gt;读取task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="289" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-14" value="&lt;font style=&quot;&quot;&gt;UserVacateController：添加企微表pull任务&lt;br&gt;/crm-enterprise-wechat/ext/v1/addQwbPullTask&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-30" width="373" height="40" as="geometry" />

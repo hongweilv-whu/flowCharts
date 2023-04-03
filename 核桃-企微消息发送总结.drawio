@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T10:19:51.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BbvhB9MrDmW_tgwCIxxj" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:21:36.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SEN8dJWfi_MaMyX9-pLf" version="21.1.2" type="github">
   <diagram name="第 1 页" id="er9I0QnL_Se0PQcWxd1t">
     <mxGraphModel dx="3754" dy="2267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ewofRc9dXVoDsyhrSTzK-48" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="340" width="320" height="490" as="geometry" />
+          <mxGeometry x="301" y="350" width="320" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="ewofRc9dXVoDsyhrSTzK-1" target="ewofRc9dXVoDsyhrSTzK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-1" value="&lt;font style=&quot;&quot;&gt;企微宝：消息发送&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="179" y="510" width="270" height="40" as="geometry" />
+          <mxGeometry x="325" y="520" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-2" value="&lt;font style=&quot;&quot;&gt;企业微信&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/cgi-bin/message/send&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="179" y="765" width="270" height="40" as="geometry" />
+          <mxGeometry x="325" y="775" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-3" value="&lt;font style=&quot;&quot;&gt;QyApiClientService#sendQyTextMessage&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-159" y="765" width="270" height="40" as="geometry" />
@@ -60,16 +60,16 @@
           <mxGeometry x="-940" y="890" width="373" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-9" value="&lt;font style=&quot;&quot;&gt;企微宝任务拉取的回调接口，由企微宝发起调用&lt;br&gt;/crm-enterprise-wechat/v1/qwb&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="179" y="427" width="270" height="40" as="geometry" />
+          <mxGeometry x="325" y="437" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-11" value="拉取task数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="318" y="477" width="90" height="30" as="geometry" />
+          <mxGeometry x="464" y="487" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-12" value="&lt;font style=&quot;&quot;&gt;写入task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="179" y="360" width="130" height="40" as="geometry" />
+          <mxGeometry x="325" y="370" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-13" value="&lt;font style=&quot;&quot;&gt;读取task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="318" y="360" width="130" height="40" as="geometry" />
+          <mxGeometry x="464" y="370" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-14" value="&lt;font style=&quot;&quot;&gt;UserVacateController：添加企微表pull任务&lt;br&gt;/crm-enterprise-wechat/ext/v1/addQwbPullTask&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-30" width="373" height="40" as="geometry" />
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-49" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="240" width="1090" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="417" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="758" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

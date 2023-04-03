@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T02:54:03.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0Pr7qqOTWUvD1clvxhu7" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T02:56:04.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="n5I-gcw6WRL8jn1JPKdE" version="21.1.2" type="github">
   <diagram name="第 1 页" id="er9I0QnL_Se0PQcWxd1t">
     <mxGraphModel dx="1050" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="ewofRc9dXVoDsyhrSTzK-13" value="&lt;font style=&quot;&quot;&gt;读取task数据&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ewofRc9dXVoDsyhrSTzK-14" value="&lt;font style=&quot;&quot;&gt;UserVacateController：添加企微表pull任务&lt;br&gt;/crm-enterprise-wechat/ext/v1/addQwbPullTask&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="50" width="373" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

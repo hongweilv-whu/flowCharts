@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T10:27:55.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ld1HTVvvl50WbP1pVCum" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T10:28:23.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ktRhPI82R0bQqGofOcfb" version="21.5.0" type="github">
   <diagram name="第 1 页" id="tJg1SgU2xVapSyH2EtI7">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,126 @@
         </mxCell>
         <mxCell id="uNYkjxdiS4ng9zgV3syQ-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="1010" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;年课可退费订单列表页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="600" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;年课退费流程&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1470" y="600" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-52" target="uNYkjxdiS4ng9zgV3syQ-54" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-52" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;自己支付的订单&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;他人为自己支付的订单&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="710" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-54" target="uNYkjxdiS4ng9zgV3syQ-56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-54" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;课程类型过滤：非CONTEST&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;课程包过滤：只包含当前支持的课程包的订单&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="790" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-56" target="uNYkjxdiS4ng9zgV3syQ-57" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-56" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;已申请过退费：只展示最新一条&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;未申请过退费：展示，并支持申请&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="870" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-57" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;设置是否可以申请退费，及不可以的原因&lt;br style=&quot;font-size: 14px;&quot;&gt;设置执行申请操作的老师集合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="950" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-59" target="uNYkjxdiS4ng9zgV3syQ-61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-59" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;校验：订单是否已有退费中的流程&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="670" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-61" target="uNYkjxdiS4ng9zgV3syQ-63" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;校验：操作人的账号有效性&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="734" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-63" target="uNYkjxdiS4ng9zgV3syQ-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-63" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;校验：订单是否有待开的发票申请，有则无法退费&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="797" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-65" target="uNYkjxdiS4ng9zgV3syQ-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-65" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;校验：订单是否有调课、转班、复课的申请，有则无法退费&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="861" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-67" target="uNYkjxdiS4ng9zgV3syQ-69" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-67" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;查询：订单的屯课、停课信息，确认课程解锁进度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="924" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-69" target="uNYkjxdiS4ng9zgV3syQ-71" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-69" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;创建订单的申请记录，写入表：&lt;/span&gt;&lt;/div&gt;approval_year_course_refund" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="988" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-71" target="uNYkjxdiS4ng9zgV3syQ-75" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生成审批流程的所有节点&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1051" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-73" target="uNYkjxdiS4ng9zgV3syQ-77" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-73" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;创建审批流的记录，写入表：&lt;/span&gt;&lt;/div&gt;approval_stream_node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1179" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-75" target="uNYkjxdiS4ng9zgV3syQ-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;自动流转审批流的第1个审批节点，并验证员工状态&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1115" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-77" target="uNYkjxdiS4ng9zgV3syQ-79" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;课销处理，写入表：approval_year_course_refund_amount_log&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1242" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-79" target="uNYkjxdiS4ng9zgV3syQ-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户删班&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1306" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-81" target="uNYkjxdiS4ng9zgV3syQ-83" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-81" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;审批流的第1个审批节点，非财务节点时，发送通知消息&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1369" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-83" target="uNYkjxdiS4ng9zgV3syQ-85" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-83" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;审批流的第1个审批节点，财务节点时，更新财务系统退费记录，并生成发票的审批流&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1433" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="uNYkjxdiS4ng9zgV3syQ-85" target="uNYkjxdiS4ng9zgV3syQ-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发出财务审核退费的MQ消息&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1496" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发出订单的年课退费MQ消息&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1560" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-87" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;操作退费名单&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. 无上下游班级和老师，则课导教务；&lt;/p&gt;&lt;p&gt;2. 计算课程解锁进度：&lt;/p&gt;&lt;p&gt;courseSequence &amp;gt;= 2时，只能是当前班级的老师；&lt;/p&gt;&lt;p&gt;courseSequence &amp;lt; 2时，当前班级的老师，或转班前的班级老师都可以；&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. 兜底课导教务&lt;/p&gt;&lt;p&gt;&lt;b&gt;问题点：2的情况下，课导是无操作权限的。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="1104" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uNYkjxdiS4ng9zgV3syQ-88" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="1010" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

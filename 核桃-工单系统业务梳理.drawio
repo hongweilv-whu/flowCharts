@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T03:52:17.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kJ3RUkT7YUGJMeQQRKet" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T07:58:46.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S38vFgmUgW9MUfsu2yA4" version="21.6.8" type="github">
   <diagram name="第 1 页" id="dMJNWCL1bGJtL2uopitH">
     <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,44 +10,74 @@
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zbNSWQ39G8rCh_Bigl1x-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;小号质检：3&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="160" width="160" height="50" as="geometry" />
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;小号质检：3&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;br&gt;&lt;/font&gt;根据审核人名单&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="146" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbNSWQ39G8rCh_Bigl1x-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;作业质检：2&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="160" width="160" height="50" as="geometry" />
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;作业质检：2&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;br&gt;&lt;/font&gt;Scratch + Python&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="146" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zbNSWQ39G8rCh_Bigl1x-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;L1作业质检：8&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="160" width="160" height="50" as="geometry" />
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;L1作业质检：8&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;最多申诉4次&lt;br&gt;&lt;/font&gt;Scratch + ScratchJR&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="146" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;xxl-job&lt;br&gt;每周四10点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="83" y="56" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;xxl-job&lt;br&gt;每&lt;/span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;天23:30&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="56" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;xxl-job&lt;br&gt;每&lt;/span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;天00:01&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="56" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;企微会话：6&lt;/span&gt;&lt;br&gt;不允许申诉" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="160" width="160" height="50" as="geometry" />
+          <mxGeometry x="910" y="146" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;监听Kafka&lt;br&gt;实时&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="930" y="56" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;课导&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="103" width="60" height="40" as="geometry" />
+          <mxGeometry x="-60" y="89" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;班主任&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="103" width="80" height="40" as="geometry" />
+          <mxGeometry x="1130" y="89" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbNSWQ39G8rCh_Bigl1x-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建工单记录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="1060" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbNSWQ39G8rCh_Bigl1x-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手动创建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="120" height="40" as="geometry" />
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;手动单个/批量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="56" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zbNSWQ39G8rCh_Bigl1x-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手动创建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="70" width="120" height="40" as="geometry" />
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手动单个/批量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="56" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询&lt;br&gt;业务基础数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;补齐业务字段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;筛选并取样&lt;br&gt;业务基础数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分配审核人员&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;创建&lt;br&gt;工单基础数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;创建&lt;br&gt;工单审核数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;创建&lt;br&gt;工单业务数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;工单审核&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbNSWQ39G8rCh_Bigl1x-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;工单申诉&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

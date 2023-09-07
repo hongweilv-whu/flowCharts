@@ -1,9 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T10:26:45.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="vgA7CJUZawa1Tjmpk-Rr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T10:26:58.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o_DojeH2WT_v8BmBw-s-" version="21.7.2" type="github">
   <diagram name="第 1 页" id="uil89rYryK328mhuBNLk">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-1" value="任务配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="Rectangle" parent="1">
+          <mxGeometry x="810" y="200" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-2" value="任务下发及查看" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1512.5" y="200" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-3" value="沟通信息" style="rounded=1;whiteSpace=wrap;html=1;" diagramName="RoundedRectangle" vertex="1" diagramCategory="general" parent="1">
+          <mxGeometry x="810" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-4" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="930" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-5" value="物料信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1050" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-6" value=".........." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="1160" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-7" value="" style="shape=mxgraph.flowchart.annotation_2;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;direction=south;" vertex="1" diagramCategory="Flowchart" diagramName="Annotation2" parent="1">
+          <mxGeometry x="831" y="340" width="349" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-8" value="任务类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="954" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-9" value="起止时间" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1080" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-10" value="任务名称" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-11" value="" style="shape=mxgraph.flowchart.transfer;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2" diagramCategory="Flowchart" diagramName="Transfer" vertex="1" parent="1">
+          <mxGeometry x="1210" y="340" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-13" target="Jmd_lGYaCBIRR-xcUTpT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-13" value="学期id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1324" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-15" target="Jmd_lGYaCBIRR-xcUTpT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-15" value="班级ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1324" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-16" value="用户标签" style="rounded=1;whiteSpace=wrap;html=1;" diagramName="RoundedRectangle" vertex="1" diagramCategory="general" parent="1">
+          <mxGeometry x="1330" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-19" target="Jmd_lGYaCBIRR-xcUTpT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-18" value="下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jmd_lGYaCBIRR-xcUTpT-17">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-19" value="中台/系统" style="rounded=1;whiteSpace=wrap;html=1;" diagramName="RoundedRectangle" vertex="1" diagramCategory="general" parent="1">
+          <mxGeometry x="1510" y="310" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-22" target="Jmd_lGYaCBIRR-xcUTpT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-21" value="下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jmd_lGYaCBIRR-xcUTpT-20">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-22" value="组长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1750" y="310" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-23" value="组员" style="rounded=1;whiteSpace=wrap;html=1;" diagramName="RoundedRectangle" vertex="1" diagramCategory="general" parent="1">
+          <mxGeometry x="1985" y="310" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-25" target="Jmd_lGYaCBIRR-xcUTpT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-25" value="任务id " style="rounded=1;whiteSpace=wrap;html=1;" diagramName="RoundedRectangle" vertex="1" diagramCategory="general" parent="1">
+          <mxGeometry x="1985" y="390" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-27" target="Jmd_lGYaCBIRR-xcUTpT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-27" value="学期id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1985" y="480" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-28" value="userid" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1985" y="560" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-32" target="Jmd_lGYaCBIRR-xcUTpT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1980" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-31" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="Jmd_lGYaCBIRR-xcUTpT-30">
+          <mxGeometry x="-0.1826" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-32" value="任务id " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1750" y="390" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-34" target="Jmd_lGYaCBIRR-xcUTpT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-34" value="学期id" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1750" y="480" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-35" value="组员id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1750" y="560" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-36" value="组员id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1750" y="630" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-40" target="Jmd_lGYaCBIRR-xcUTpT-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-40" target="Jmd_lGYaCBIRR-xcUTpT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-39" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jmd_lGYaCBIRR-xcUTpT-38">
+          <mxGeometry x="-0.072" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-40" value="任务id " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1510" y="390" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jmd_lGYaCBIRR-xcUTpT-42" target="Jmd_lGYaCBIRR-xcUTpT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-42" value="学期id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1510" y="480" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmd_lGYaCBIRR-xcUTpT-43" value="组长id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" diagramCategory="general" diagramName="RoundedRectangle" parent="1">
+          <mxGeometry x="1510" y="560" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
